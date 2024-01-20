@@ -1,0 +1,390 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns:m="http://www.w3.org/1998/Math/MathML" lang="en" style="display: none" id="simpleViewer" >
+    <head>
+        <title>Health‐related quality of life and chronic wound characteristics among patients with chronic wounds treated in primary care: A cross‐sectional study in Singapore</title>
+
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- OsanoScriptEnabled: true -->
+
+<style>
+/* Osano - Hide close and reject all buttons */
+.osano-cm-denyAll,
+.osano-cm-dialog__close {
+    display: none
+}
+</style>
+<script>
+!function(e="v1"){let n=location.host.split(".").slice(-3).join(".");var o=document.cookie,a=new Date;a.setFullYear(a.getFullYear()+1),0>o.indexOf("lit_osano="+e)&&(document.cookie="lit_osano="+e+"; expires="+a+"; path=/; domain="+n+";",o.indexOf("osano_consentmanager_uuid=")>=0&&(document.cookie="osano_consentmanager_uuid=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain="+n+";"),o.indexOf("osano_consentmanager=")>=0&&(document.cookie="osano_consentmanager=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain="+n+";"),localStorage.removeItem("osano_consentmanager"),localStorage.removeItem("osano_consentmanager_tattles-cookie"),localStorage.removeItem("osano_consentmanager_tattles-iframe"),localStorage.removeItem("osano_consentmanager_tattles-ignore"),localStorage.removeItem("osano_consentmanager_tattles-script"),localStorage.removeItem("osano_consentmanager_uuid"),console.log("[OsanoDebug] lit_osano reset"));let t=["Du kan lukke dette banner for at forts\xe6tte med kun vigtige cookies.","Puede cerrar este banner para continuar con solo las cookies esenciales","Puoi chiudere questo banner per continuare con solo i cookie essenziali","Sie k\xf6nnen dieses Banner schlie\xdfen, um nur mit essenziellen Cookies fortzufahren.","Tento banner můžete zavř\xedt a pokračovat pouze se z\xe1kladn\xedmi soubory cookie.","U kunt deze banner sluiten om verder te gaan met alleen essenti\xeble cookies.","Voc\xea pode fechar este banner para continuar apenas com os cookies essenciais.","Voit sulkea t\xe4m\xe4n bannerin jatkaaksesi vain v\xe4ltt\xe4m\xe4tt\xf6mien ev\xe4steiden k\xe4ytt\xf6\xe4.","Vous pouvez fermer cette banni\xe8re pour continuer avec uniquement les cookies essentiels.","You may close this banner to continue with only essential cookies.","Μπορείτε να κλείσετε αυτό το banner για να συνεχίσετε μόνο με βασικά cookies","Можете да затворите този банер, за да продължите само с основните бисквитки."];var s,i="Osano",r="data";(s=window)[i]=s[i]||function(){s[i][r].push(arguments)},s[i][r]=s[i][r]||[],window.Osano("onUiChanged",(e,n)=>{if(console.log("[OsanoDebug] Event onUiChanged: ",e,", ",n),"dialog"===e&&"show"===n){let o=document.querySelector(".osano-cm-message");if(o){let a=o.textContent,s=t.find(e=>a.includes(e));o.textContent=a.replace(s,"")}}})}();
+</script>
+
+<link rel="preload" href="https://cmp.osano.com/AzZdRbSORDOOzF9W/67a788d8-9344-4c9b-a3c2-89b5073ee231/osano.js" as="script">
+<script src="https://cmp.osano.com/AzZdRbSORDOOzF9W/67a788d8-9344-4c9b-a3c2-89b5073ee231/osano.js"></script>
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+    <meta name="dc.identifier" content="10.1111/iwj.13708"/>
+
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+<link rel='preload' as='style' href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap'/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" media="print" onload="this.media='all'"/>
+
+<link rel="prefetch" href="/cloud-reader/dist/fonts/MaterialIcons-Regular.8a9a261c8b8dfe90db11f1817a9d22e1.woff2" as="font" />
+<link rel="prefetch" href="/cloud-reader/dist/fonts/ereader-icon-font.1aec70bba47436a4f7d805c17eb4568e.woff" as="font" />
+
+<link title="eReader-css" rel="stylesheet" type="text/css" href="/cloud-reader/dist/shared.ba97d46b6adeb75f163a.css">
+
+    <link rel="stylesheet" type="text/css" href="/cloud-reader/dist/pdf-renderer.86a8f5a0274d2eede377.css">
+
+
+
+<style rel="text/css">
+    @import url("/templates/jsp/cloudReader/css/d.css");
+</style>
+<script type="text/javascript">
+    window.LIT = window.LIT || {};
+    LIT.Reader = LIT.Reader || {};
+    LIT.Reader.LogEnabled = false;
+    LIT.Reader.isSecureConnection = 'serviceWorker' in navigator && 'caches' in window && location.protocol !== "http:";
+    window.READER_OFFLINE = navigator && navigator.onLine === false;
+    
+    var verifyOfflineMode = function () {
+        
+        var xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function () {
+            window.READER_OFFLINE = xhr.readyState === 4 && xhr.status !== 200;
+            if (window.READER_OFFLINE && true) {
+                
+                let mathjaxUrl = "/cloud-reader/dist/MathJax.min.c020646cc8490f4bd5d4.js";
+                fetch(mathjaxUrl).then(function (res) {
+                    res.text().then(function (txt) {
+                        LIT.Reader.MathJaxUrl = window.URL.createObjectURL(new Blob([txt], {'type': 'text/javascript'}));
+                    })
+                })
+            }
+        };
+        xhr.open("HEAD", "/templates/jsp/images/singlePixel.gif?t=" + new Date().getTime());
+        
+        xhr.setRequestHeader("Cache-Control", "no-cache,must-revalidate,max-age=0");
+        xhr.setRequestHeader("Pragma", "no-cache");
+        xhr.send();
+    };
+    
+    verifyOfflineMode();
+
+    var path = (window.location && window.location.pathname) ? window.location.pathname : '';
+
+    
+    path = path.replace(/(.*)\/.*\.[x]?html$/, "$1");
+
+    
+    path = path.charAt(path.length - 1) === '/'
+        ? path.substr(0, path.length - 1)
+        : path;
+
+    
+    var readerResourcesPath = "/cloud-reader/dist";
+
+    var HTTPServerRootFolder =
+        window.location ? (
+            window.location.protocol
+            + "//"
+            + window.location.hostname
+            + (window.location.port ? (':' + window.location.port) : '')
+            + readerResourcesPath
+        ) : ''
+    ;
+</script>
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window.adobeDataLayer = window.adobeDataLayer || [];
+    var adobeDataLayerJson = {"site":{"environment":"LIVE","hub":"pericles","locale":"en-US"},"user":{"login-status":"guest","admin-type":"non-admin","identities":[{"type":"AccessTokenDomainUser","uuid":"18cde0de-6f20-4346-a574-9a75bd147695"},{"type":"RegionUser","uuid":"9ba40345-687b-40e6-ae55-26fd582bfe93"},{"type":"RegionUser","uuid":"1e062694-1189-4932-91ab-dd78ca25a1ee"},{"type":"SmartGroupUser","uuid":"b7acda8c-ce18-451b-a68d-e14b72f9b5b8"},{"type":"BasicGroup","uuid":"91eaae86-e393-43e5-91f6-285936faede5"},{"type":"SmartGroupUser","uuid":"b2dbfe27-ecae-4bb6-bb0d-d75e5caa3762"},{"type":"SmartGroupUser","uuid":"da88d808-3f7b-4bde-9210-10862b6d121b"},{"type":"SmartGroupUser","uuid":"8c72a733-117a-4bc9-a682-13475f13e6a3"}]},"content":{"item":{"title":"Health‐related quality of life and chronic wound characteristics among patients with chronic wounds treated in primary care: A cross‐sectional study in Singapore","doi":"10.1111/iwj.13708","access":"open","type":"article","topics":[{"taxonomyUri":"global-subject-codes","topicLabel":"NURSING \u0026 MIDWIFERY","topicUri":"nu"},{"taxonomyUri":"global-subject-codes","topicLabel":"MEDICAL SCIENCE","topicUri":"md"},{"taxonomyUri":"global-subject-codes","topicLabel":"General Clinical Nursing","topicUri":"nu80"},{"taxonomyUri":"global-subject-codes","topicLabel":"Dermatology","topicUri":"md60"},{"taxonomyUri":"global-subject-codes","topicLabel":"Surgery \u0026 Surgical Specialties","topicUri":"mdu0"},{"taxonomyUri":"global-subject-codes","topicLabel":"Dermatopathology","topicUri":"md62"},{"taxonomyUri":"global-subject-codes","topicLabel":"Community Nursing","topicUri":"nu40"},{"taxonomyUri":"global-subject-codes","topicLabel":"Dermatologic Surgery","topicUri":"md64"},{"taxonomyUri":"global-subject-codes","topicLabel":"Plastic \u0026 Reconstructive Surgery","topicUri":"mdu5"},{"taxonomyUri":"open-access","topicLabel":"Open Access Content","topicUri":"open-access-content"},{"taxonomyUri":"fundref-funders","topicLabel":"Nanyang Technological University","topicUri":"501100001475"},{"taxonomyUri":"fundref-funders","topicLabel":"Lee Kong Chian School of Medicine, Nanyang Technological University","topicUri":"501100011738"}],"published-date":"2021-12-02","access-denial":"no","format-available":["Abstract","Cited by","First page image","Full text","PDF","References","AM pdf"],"format-viewed":"epdf","auth-type":"license"},"group":{"doi":"10.1111/iwj.v19.5","access":"open","type":"issue","volume":"19","issue":"5","published-date":"2022-08-01","topics":[{"taxonomyUri":"global-subject-codes","topicLabel":"NURSING \u0026 MIDWIFERY","topicUri":"nu"},{"taxonomyUri":"global-subject-codes","topicLabel":"MEDICAL SCIENCE","topicUri":"md"},{"taxonomyUri":"global-subject-codes","topicLabel":"General Clinical Nursing","topicUri":"nu80"},{"taxonomyUri":"global-subject-codes","topicLabel":"Dermatology","topicUri":"md60"},{"taxonomyUri":"global-subject-codes","topicLabel":"Surgery \u0026 Surgical Specialties","topicUri":"mdu0"},{"taxonomyUri":"global-subject-codes","topicLabel":"Dermatopathology","topicUri":"md62"},{"taxonomyUri":"global-subject-codes","topicLabel":"Community Nursing","topicUri":"nu40"},{"taxonomyUri":"global-subject-codes","topicLabel":"Dermatologic Surgery","topicUri":"md64"},{"taxonomyUri":"global-subject-codes","topicLabel":"Plastic \u0026 Reconstructive Surgery","topicUri":"mdu5"},{"taxonomyUri":"open-access","topicLabel":"Open Access Content","topicUri":"open-access-content"}]},"series":{"title":"International Wound Journal","doi":"10.1111/(ISSN)1742-481X","access":"open","type":"journal","code":"1742481x","eissn":"1742-481X","topics":[{"taxonomyUri":"gpt-zonename","topicLabel":"intl-wound-j_IWJ","topicUri":"intl-wound-j_iwj"},{"taxonomyUri":"gpt-sitename","topicLabel":"wly.dermatology_000042","topicUri":"wly.dermatology_000042"},{"taxonomyUri":"global-subject-codes","topicLabel":"NURSING \u0026 MIDWIFERY","topicUri":"nu"},{"taxonomyUri":"global-subject-codes","topicLabel":"MEDICAL SCIENCE","topicUri":"md"},{"taxonomyUri":"global-subject-codes","topicLabel":"General Clinical Nursing","topicUri":"nu80"},{"taxonomyUri":"global-subject-codes","topicLabel":"Dermatology","topicUri":"md60"},{"taxonomyUri":"global-subject-codes","topicLabel":"Surgery \u0026 Surgical Specialties","topicUri":"mdu0"},{"taxonomyUri":"global-subject-codes","topicLabel":"Dermatopathology","topicUri":"md62"},{"taxonomyUri":"global-subject-codes","topicLabel":"Community Nursing","topicUri":"nu40"},{"taxonomyUri":"global-subject-codes","topicLabel":"Dermatologic Surgery","topicUri":"md64"},{"taxonomyUri":"global-subject-codes","topicLabel":"Plastic \u0026 Reconstructive Surgery","topicUri":"mdu5"},{"taxonomyUri":"no-if-jcr","topicLabel":"Hide","topicUri":"hide"},{"taxonomyUri":"open-access","topicLabel":"Open Access Content","topicUri":"open-access-content"}]}},"page":{"brand":"wol","type":"article","primary-section":"journal","secondary-section":"article","tertiary-section":"epdf"}};
+    if (adobeDataLayerJson) {
+        if (true) {
+            window.adobeDataLayer.push(adobeDataLayerJson);
+            var additionalAdobeDataLayer = {};
+            additionalAdobeDataLayer.event = 'page-load';
+            additionalAdobeDataLayer.user = {};
+            const intervalID = setInterval(() => {
+                if (Osano) {
+                    clearInterval(intervalID);
+                    const osanoConsent = Osano.cm.getConsent();
+                    additionalAdobeDataLayer.user["consent-osano"] = 'analytics: ' + osanoConsent["ANALYTICS"] + ' | marketing: ' + osanoConsent["MARKETING"] + ' | personalization: ' + osanoConsent["PERSONALIZATION"] + ' | essential: ' + osanoConsent["ESSENTIAL"];
+                    window.adobeDataLayer.push(additionalAdobeDataLayer);
+                }
+            }, 50);
+        } else {
+            adobeDataLayerJson.event = 'page-load';
+            window.adobeDataLayer.push(adobeDataLayerJson);
+        }
+    }
+</script>
+
+    <script src="https://assets.adobedtm.com/59640f9fa510/591d3f748997/launch-1ff1f800248b.min.js"></script>
+
+
+        
+        
+
+
+
+
+
+        
+        
+        <script type="text/javascript">
+    history.replaceState('', '', removeParam("paRef" , window.location.href));
+
+    function removeParam(key, sourceURL) {
+        var rtn = sourceURL.split("?")[0],
+            param,
+            params_arr = [],
+            queryString = (sourceURL.indexOf("?") !== -1) ? sourceURL.split("?")[1] : "";
+        if (queryString !== "") {
+            params_arr = queryString.split("&");
+            for (var i = params_arr.length - 1; i >= 0; i -= 1) {
+                param = params_arr[i].split("=")[0];
+                if (param === key) {
+                    params_arr.splice(i, 1);
+                }
+            }
+            rtn = rtn + "?" + params_arr.join("&");
+        }
+        return rtn;
+    }
+
+</script>
+    </head>
+    
+    <body class="skeleton" style="display: none">
+    
+    <h1 aria-live="assertive" role="status" id="statusHeading" class="visually-hidden"></h1>
+        
+
+
+
+
+
+
+
+
+
+<noscript>
+    <div id="alert_box" class="popup_container full noScript">
+        <div class="popup_content">
+            <div class="flex-container">
+                <div class="text">
+                    <span class="popupIcon icon material-icons" data-type="">error_outline</span>
+                    <div>
+                        <h1 class="popupTitle">JavaScript disabled</h1>
+                        <p class="popupDescription">You have to enable JavaScript in your browser's settings in order to use the eReader.</p>
+                        
+                            <p class="popupDescription">Or try downloading the content offline</p>
+                            <a href="/doi/pdfdirect/10.1111/iwj.13708?download=true" target="_blank" class="btn--bordered__light">DOWNLOAD</a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        #app-container, .navbar {display: none !important;}
+    </style>
+</noscript>
+        <nav id="app-navbar" class="navbar" role="banner" aria-label="{{Strings.i18n_toolbar}}">
+        </nav>
+    <div id="app-container" style="display: none">
+            
+                
+                
+                    <div class="cup-container">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                             x="0px" y="0px" style="display: none;">
+                            <symbol id="wave">
+                                <path d="M420,20c21.5-0.4,38.8-2.5,51.1-4.5c13.4-2.2,26.5-5.2,27.3-5.4C514,6.5,518,4.7,528.5,2.7c7.1-1.3,17.9-2.8,31.5-2.7c0,0,0,0,0,0v20H420z"></path>
+                                <path d="M420,20c-21.5-0.4-38.8-2.5-51.1-4.5c-13.4-2.2-26.5-5.2-27.3-5.4C326,6.5,322,4.7,311.5,2.7C304.3,1.4,293.6-0.1,280,0c0,0,0,0,0,0v20H420z"></path>
+                                <path d="M140,20c21.5-0.4,38.8-2.5,51.1-4.5c13.4-2.2,26.5-5.2,27.3-5.4C234,6.5,238,4.7,248.5,2.7c7.1-1.3,17.9-2.8,31.5-2.7c0,0,0,0,0,0v20H140z"></path>
+                                <path d="M140,20c-21.5-0.4-38.8-2.5-51.1-4.5c-13.4-2.2-26.5-5.2-27.3-5.4C46,6.5,42,4.7,31.5,2.7C24.3,1.4,13.6-0.1,0,0c0,0,0,0,0,0l0,20H140z"></path>
+                            </symbol>
+                        </svg>
+
+                        <div class="cup">
+                            <div id="coffee" class="coffee">
+                                <svg viewBox="0 0 560 20" class="coffee-wave coffee-wave__back">
+                                    <use xlink:href="#wave"></use>
+                                </svg>
+                                <svg viewBox="0 0 560 20" class="coffee-wave coffee-wave__front">
+                                    <use xlink:href="#wave"></use>
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="cup-icon"></div>
+                        <div aria-hidden="true" class="loading-text">Preparing publication...</div>
+                    </div>
+                
+            
+
+                <div id="reading-area" role="main">
+                </div>
+        </div>
+        <script type="text/javascript">
+            var readerConfig = {"user":{"isLoggedIn":false,"loginLink":"/action/showLogin?redirectUri\u003d%2Fdoi%2Fepdf%2F10.1111%2Fiwj.13708","registerLink":"https://onlinelibrary.wiley.com/action/registration?redirectUri\u003d%2Fdoi%2Fepdf%2F10.1111%2Fiwj.13708"},"readingProgress":{"syncProgress":false,"syncUrl":"/reader/saveProgress","retrieveUrl":"/reader/retrieveProgress"},"doi":"10.1111/iwj.13708","title":"Health‐related quality of life and chronic wound characteristics among patients with chronic wounds treated in primary care: A cross‐sectional study in Singapore","epubConfig":{"overrideEpubUrlParam":true,"epubUrl":"/doi/pdfdirect/10.1111/iwj.13708?hmac\u003d1695764984-7Q%2B4Z3h1S3KJUBo%2FW3alRujF02U%2BMGpu5lBWGc%2FpfQ0%3D"},"epubActions":{"offline":{"available":true,"fileSize":"1.7 MB","simultaneousRetrievalsLimit":10},"download":{"files":{"pdf":{"shortCode":"pdf","name":"PDF","available":true,"size":"1.7 MB","url":"/doi/pdfdirect/10.1111/iwj.13708?download\u003dtrue","doi":"10.1111/iwj.13708"}}},"print":true,"shareAccess":true,"preview":false,"rental":false,"print_pdf_pages":50},"displayOptions":{"displayFormat":"auto","displayMode":"scroll-continuous"},"annotationsConfig":{"enabled":false},"materialTabs":{"figuresSuppressed":false,"mediaSuppressed":true,"tablesSuppressed":true,"supplementsSuppressed":false,"linkOutUrl":"/doi/suppl/10.1111/iwj.13708#support-information-section","supplementsLinkOut":false,"openDownloadLinkInNewTab":false},"analyticsConfig":{"enabled":true,"providers":[{"enabled":true,"name":"atm","siteId":"","version":"","url":""}]},"waterMarkConfig":{"enabled":true,"defaultMessage":"1742481x, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/iwj.13708. By Wiley Online Library, Wiley Online Library on [26/09/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License","optionalMessage":"","location":"right/left","hideOnFirstPage":true,"timeZone":""},"metadataUrl":"/doi/reader/metadata/10.1111/iwj.13708","referencesUrl":"/doi/reader/references/10.1111/iwj.13708","citedByUrl":"/doi/reader/citedBy/10.1111/iwj.13708","figuresUrl":"/doi/reader/figures/10.1111/iwj.13708","tablesUrl":"/doi/reader/tables/10.1111/iwj.13708","mediaUrl":"/doi/reader/media/10.1111/iwj.13708","recommendationsUrl":"/doi/reader/recommended/10.1111/iwj.13708","relatedArticlesUrl":"/doi/reader/related/10.1111/iwj.13708","siteUrl":"/doi/10.1111/iwj.13708","searchUrl":"/reader/search","currentUrl":"https://onlinelibrary.wiley.com/doi/epdf/10.1111/iwj.13708","permissionsUrl":"/action/availableUsageRights","consumePermissionsUrl":"/action/consumeUsage","format":"pdf","publicationType":"article","citationsExportUrl":"/action/showCitFormats?doi\u003d10.1111%2Fiwj.13708\u0026mobileUi\u003d0","dbStoreName":"readerOfflineStore","shareAccessUrl":"/action/generateShareUrl","readerSettingsLocalStorageKey":"article_reader_settings","recommendedEnabled":true,"relationsEnabled":false,"permissionsEnabled":false,"isOfflineSupportedForBrowser":true,"isOfflineDisabled":false,"isDownloadDisabled":false,"isShareDisabled":false,"isPrintDisabled":false,"nodeNavigationDisabled":false,"navigationMode":"PAGEBREAK","usageRightsEnabled":true,"print_pdf_pages":0,"authorizeSharing":"/action/authorizeSharing","shareMode":false,"sharedAccessConfig":{"alwaysDisplaySharingTermsPopup":false,"shareSponsorLink":"https://onlinelibrary.wiley.com/researchers/tools-resources/sharing","shareSponsorMessage":"Some features may be limited or disabled","shareMediaMessage":"Some features may be limited or disabled","isShared":false,"isPermissionEnabled":false,"isShareBannerEnabled":false,"displayAccessButton":true,"accessUrl":"/doi/full/10.1111/iwj.13708","displaySupplementsMessage":true},"inDocAdsEnabled":true,"campaigns":"{\"ereader-last-page\":{\"uri\":\"uri:707b1a3c-73e6-4188-b21f-2b05b70307d8\",\"code\":\"WOL-Global-eReader-Bottom-Position\",\"html\":\"\u003cscript data-timing\u003d\\\"async\\\" type\u003d\\\"text/javascript\\\"\u003e\\n\\n    var $GooglePublisherCategory \u003d $GooglePublisherCategory || \\\"\\\";\\n    //DEVELOPER NOTE - epdfISSN must be dynamically populated from article metadata. THIS IS THE ONLINE ISSN (eISSN) OF THE PUBLICATION THAT THE ARTICLE IS PUBLISHED IN.\\n    var epdfISSN \u003d readerConfig.eissn || \\\"\\\";\\n    //DEVELOPER NOTE - epdfDOI must be dynamically populated from article metadata. THIS IS THE DOI OF THE ARTICLE.\\n    var epdfDOI \u003d readerConfig.doi || \\\"\\\";\\n    //DEVELOPER NOTE - epdfVOLUME must be dynamically populated from article metadata. THIS IS THE VOLUME NUMBER OF THE PUBLICATION THAT THE ARTICLE IS PUBLISHED IN.\\n    var epdfVOLUME \u003d readerConfig.volume || \\\"\\\";\\n    //DEVELOPER NOTE - epdfISSUE must be dynamically populated from article metadata. THIS IS THE ISSUE NUMBER OF THE PUBLICATION THAT THE ARTICLE IS PUBLISHED IN.\\n    var epdfISSUE \u003d readerConfig.issue || \\\"\\\";\\n\\n    var setupAdScripts \u003d function () {\\n\\n        var scriptEl \u003d document.createElement(\\\"script\\\");\\n        scriptEl.async \u003d true;\\n        scriptEl.src \u003d \\\"https://securepubads.g.doubleclick.net/tag/js/gpt.js\\\";\\n\\n        document.head.appendChild(scriptEl);\\n\\n        //DEVELOPER NOTE - THIS ID WILL BE HARDCODED AND NOT DYNAMICALLY POPULATED. THIS IS THE NETWORK ID.\\n        var $PSNetworkGooglePublisherID \u003d 22744695879;\\n        //DEVELOPER NOTE - THIS ID WILL BE HARDCODED PER SITE AND NOT DYNAMICALLY POPULATED.\\n        if (!$GoogleAdManagerSite) {\\n            var $GoogleAdManagerSite \u003d \\\"WOL\\\";\\n        }\\n\\n        if (!$GoogleAdManagerZone) {\\n            var $GoogleAdManagerZone \u003d epdfISSN;\\n        }\\n\\n        $GooglePublisherCategory \u003d \\\"/\\\" + $PSNetworkGooglePublisherID + \\\"/\\\" + $GoogleAdManagerSite + \\\"/\\\" + $GoogleAdManagerZone;\\n    }\\n\u003c/script\u003e \\n\u003cscript\u003e\\n    // Set target data\\n\\n    if (!window.isAdsScriptsInstalled) {\\n        window.isAdsScriptsInstalled \u003d true;\\n        setupAdScripts();\\n    }\\n    window.googletag \u003d window.googletag || {cmd: []};\\n    googletag.cmd.push(function() {\\n\\n        googletag.pubads().addEventListener(\u0027slotRenderEnded\u0027,\\n            function(event) {\\n                if(event.slot.getSlotElementId() \u003d\u003d \\\"ePDF-bottom\\\") {\\n                    window.dispatchEvent(new CustomEvent(\\\"googleAdsLoaded\\\", {\\n                        detail: {\\n                            isEmpty: event.isEmpty,\\n                            divId: event.slot.getSlotElementId()\\n                        }\\n                    }));\\n                }\\n            }\\n        );\\n\\n        googletag.pubads ()\\n            .setTargeting(\u0027doi\u0027, epdfDOI)\\n            .setTargeting(\u0027volume\u0027, epdfVOLUME)\\n            .setTargeting(\u0027issue\u0027, epdfISSUE)\\n\\n        googletag.defineSlot($GooglePublisherCategory, [[960, 540], [960, 1265], [1067, 600], [1280, 720], [1237, 1631], [300, 250], [320, 480]], \u0027ePDF-bottom\u0027)\\n            .addService(googletag.pubads())\\n            .setTargeting(\u0027pos\u0027, \u0027ePDF-bottom\u0027)\\n            .setCollapseEmptyDiv ( true );\\n\\n        googletag.pubads().enableSingleRequest();\\n        googletag.pubads().enableAsyncRendering();\\n        googletag.pubads().collapseEmptyDivs(true);\\n        googletag.enableServices();\\n    });\\n    //]]\u003e\\n\u003c/script\u003e \\n\u003cdiv id\u003d\\\"ePDF-bottom\\\" class\u003d\\\"ePDF-bottom\\\"\u003e \\n \u003cscript\u003e\\n        googletag.cmd.push(function() { googletag.display(\u0027ePDF-bottom\u0027); });\\n    \u003c/script\u003e \\n\u003c/div\u003e\"},\"ereader-first-page\":{\"uri\":\"uri:7691ea89-90f5-4086-9241-486673caed61\",\"code\":\"WOL-Global-eReader-Top-Position\",\"html\":\"\u003cscript data-timing\u003d\\\"async\\\" type\u003d\\\"text/javascript\\\"\u003e\\n\\n    var $GooglePublisherCategory \u003d $GooglePublisherCategory || \\\"\\\";\\n    //DEVELOPER NOTE - epdfISSN must be dynamically populated from article metadata. THIS IS THE ONLINE ISSN (eISSN) OF THE PUBLICATION THAT THE ARTICLE IS PUBLISHED IN.\\n    var epdfISSN \u003d readerConfig.eissn || \\\"\\\";\\n\\t//DEVELOPER NOTE - epdfDOI must be dynamically populated from article metadata. THIS IS THE DOI OF THE ARTICLE.\\n\\tvar epdfDOI \u003d readerConfig.doi || \\\"\\\";\\n    //DEVELOPER NOTE - epdfVOLUME must be dynamically populated from article metadata. THIS IS THE VOLUME NUMBER OF THE PUBLICATION THAT THE ARTICLE IS PUBLISHED IN.\\n    var epdfVOLUME \u003d readerConfig.volume || \\\"\\\";\\n    //DEVELOPER NOTE - epdfISSUE must be dynamically populated from article metadata. THIS IS THE ISSUE NUMBER OF THE PUBLICATION THAT THE ARTICLE IS PUBLISHED IN.\\n    var epdfISSUE \u003d readerConfig.issue || \\\"\\\";\\n\\n    var setupAdScripts \u003d function () {\\n\\n        var scriptEl \u003d document.createElement(\\\"script\\\");\\n        scriptEl.async \u003d true;\\n        scriptEl.src \u003d \\\"https://securepubads.g.doubleclick.net/tag/js/gpt.js\\\";\\n\\n        document.head.appendChild(scriptEl);\\n\\n        //DEVELOPER NOTE - THIS ID WILL BE HARDCODED AND NOT DYNAMICALLY POPULATED. THIS IS THE NETWORK ID.\\n        var $PSNetworkGooglePublisherID \u003d 22744695879;\\n        //DEVELOPER NOTE - THIS ID WILL BE HARDCODED PER SITE AND NOT DYNAMICALLY POPULATED.\\n        if (!$GoogleAdManagerSite) {\\n            var $GoogleAdManagerSite \u003d \\\"WOL\\\";\\n        }\\n        \\n        if (!$GoogleAdManagerZone) {\\n            var $GoogleAdManagerZone \u003d epdfISSN;\\n        }\\n\\n        $GooglePublisherCategory \u003d \\\"/\\\" + $PSNetworkGooglePublisherID + \\\"/\\\" + $GoogleAdManagerSite + \\\"/\\\" + $GoogleAdManagerZone;\\n    }\\n\u003c/script\u003e \\n\u003cscript\u003e\\n    // Set target data\\n\\n    if (!window.isAdsScriptsInstalled) {\\n        window.isAdsScriptsInstalled \u003d true;\\n        setupAdScripts();\\n    }\\n    window.googletag \u003d window.googletag || {cmd: []};\\n    googletag.cmd.push(function() {\\n\\n        googletag.pubads().addEventListener(\u0027slotRenderEnded\u0027,\\n            function(event) {\\n                if(event.slot.getSlotElementId() \u003d\u003d \\\"ePDF-top\\\") {\\n                    window.dispatchEvent(new CustomEvent(\\\"googleAdsLoaded\\\", {\\n                        detail: {\\n                            isEmpty: event.isEmpty,\\n                            divId: event.slot.getSlotElementId()\\n                        }\\n                    }));\\n                }\\n            }\\n        );\\n\\n        googletag.pubads ()\\n            .setTargeting(\u0027doi\u0027, epdfDOI)\\n            .setTargeting(\u0027volume\u0027, epdfVOLUME)\\n            .setTargeting(\u0027issue\u0027, epdfISSUE)\\n\\n        googletag.defineSlot($GooglePublisherCategory, [[960, 540], [960, 1265], [1067, 600], [1280, 720], [1237, 1631], [300, 250], [320, 480]], \u0027ePDF-top\u0027)\\n            .addService(googletag.pubads())\\n            .setTargeting(\u0027pos\u0027, \u0027ePDF-top\u0027)\\n            .setCollapseEmptyDiv ( true );\\n\\n        googletag.pubads().enableSingleRequest();\\n        googletag.pubads().enableAsyncRendering();\\n        googletag.pubads().collapseEmptyDivs(true);\\n        googletag.enableServices();\\n    });\\n    //]]\u003e\\n\u003c/script\u003e \\n\u003cdiv id\u003d\\\"ePDF-top\\\" class\u003d\\\"ePDF-top\\\"\u003e \\n \u003cscript\u003e\\n        googletag.cmd.push(function() { googletag.display(\u0027ePDF-top\u0027); });\\n    \u003c/script\u003e \\n\u003c/div\u003e\"}}","suspendAdsInSinglePagePdfs":true,"adsImpressionDuration":0,"campaignUrl":"/action/showReaderCampaign?doi\u003d10.1111%2Fiwj.13708","eventsConfig":{"readerEventsAnalyticsUrl":"/action/readerEventsAnalytics?doi\u003d10.1111%2Fiwj.13708\u0026format\u003dpdf","adImpressionDuration":5000,"episodeRemainingTime":300000,"enabled":true,"allowedNumOfEventsPerReq":50,"excludedEvents":"read,openLeftMenu"},"content_buffer_size":2000,"isPrintSupportedForBrowser":true,"isMaterialDownloadable":true,"isEpubLazyLoadingEnabled":true,"isPdfLazyLoadingEnabled":true,"loadedPagesLimit":7,"maxPdfKeepSize":20,"switchFormats":{"enabled":false,"current":"pdf","available":{"pdf":{"name":"pdf","url":"/doi/epdf/10.1111/iwj.13708"}}},"supplementsUrl":"/action/showReaderSupplements?doi\u003d10.1111%2Fiwj.13708","tabsSuppressionConfig":{"materialsSuppressed":false,"notesSuppressed":true,"linksSuppressed":false,"infosSuppressed":false,"tocSuppressed":false},"fetchFiguresFromEpub":false,"mediaPlayersConfig":{"enabled":false,"player":{"enabled":false,"name":"flowplayer","css":"//releases.flowplayer.org/6.0.5/commercial/skin/functional.css","key":"$471173155739872","playerScript":"//releases.flowplayer.org/6.0.5/flowplayer.min.js"}},"adsInclusionEnabled":true,"helpEnabled":false,"profileConfig":{"activeProfile":"DEFAULT","printSuppressed":false,"offlineSuppressed":false,"downloadSuppressed":false,"switchFormatsSuppressed":true,"materialsSuppressed":false,"notesSuppressed":true,"linksSuppressed":false,"infoSuppressed":false,"siteLinkOutSuppressed":false,"accessSharingSuppressed":false},"isReadingFlowEnabled":true,"showCrossmarkButton":true,"restrictContent":true,"restrictCopying":true,"isScitrusHelpGuideEnabled":false,"referencesNumberingSupported":true,"freeToReadConfig":{"learnMoreLink":"","bannerMessage":"Downloading and printing are disabled.","isFreeToRead":false,"isBannerEnabled":true,"isGetAccessButtonVisible":true,"accessUrl":"/doi/ftr/10.1111/iwj.13708"},"doiMappingConfig":{"enabled":false},"rendererData":{"src":"/cloud-reader/dist/pdf-renderer.80c8d75a1331f68d2a2b.js","cssSrc":"/cloud-reader/dist/pdf-renderer.86a8f5a0274d2eede377.css","templatesSrc":""},"fileSize":1741123,"faqLinkData":{"enabled":false},"pdfjsDisableStream":true,"pdfjsDefaultRangeChunkSize":262144,"pdfjs2PagesEnabled":true,"scitrusDecommissionMessageConfig":{"show":false,"date":"early May","faqLink":"https://www.scitrus.com/faq"},"locationHistoryEnabled":false,"pdfjsPrintResolution":300,"pdfjsPrintLimitEnabled":true,"issn":"1742-4801","eissn":"1742-481X","issue":"5","volume":"19","hmac":"1695764984-gsUcYxP2DQHnfNvNLzG3ABX%2F%2BL1WuJeiM1eqHgO0%2BdM%3D","userSuppressed":false,"openLeftMenu":true,"bannerConfig":{"bannerText":"Wiley Online Library","bannerImagePath":"/userimages/803a2d5c-7fb9-403d-9947-52e562b090c5/ereader-banner-1851525fa2d"},"healthCareDisclaimerConfig":{"enabled":false,"message":"\u003cdiv class\u003d\"healthcare-disclaimer-alert\" role\u003d\"alert\"\u003e\u003cp class\u003d\"healthcare-disclaimer-alert__text\"\u003eThis material is only for use by healthcare professionals.\u003cbr\u003e By continuing to view this site you are confirming that you are a healthcare professional.\u003c/p\u003e\u003cbutton class\u003d\"healthcare-disclaimer-alert__btn\"\u003econfirm\u003c/button\u003e\u003c/div\u003e"},"getFTRConfig":{"enabled":true,"referencesUrl":"/action/showReaderReferencesItems?doi\u003d10.1111%2Fiwj.13708","referencesLinksUrl":"/references/links/10.1111/iwj.13708?linkSource\u003dEREADER","citationsConfig":{"citedCount":2,"citationsUrl":"/action/getCitedBy?doi\u003d10.1111%2Fiwj.13708","pageSize":100},"citationLinksUrl":"/citedBy/links/10.1111/iwj.13708?linkSource\u003dEREADER","crossrefEnabled":false,"numberOfGetFTRLinks":10},"displayCiteButton":true,"metisUrl":"https://wiley.met.vgwort.de/na/base64-dmd6bS42MDY1MC0xMC4xMTExLWl3ai4xMzcwOA\u003d\u003d","newUXEnabled":false,"readOnlyMode":false,"termsAndConditionsUrl":"https://onlinelibrary.wiley.com/termsAndConditions"};
+            readerConfig.contentCacheName = "readerPubPathsCache";
+            readerConfig.libraryPath='/reader/library';
+        </script>
+        
+
+
+
+
+
+<script type="text/javascript">
+    
+    readerConfig.alertPopupMsg = {
+        
+        PRINTING_DISABLED_MESSAGE : "<i class='material-icons'>info_outline</i> <h2>Do not print this page</h2> <h3>To view your printing options, return to the document and click the print option in the menu in the top right corner of the page.</h3>",
+        
+        USER_UNAUTHORIZED: "You do not have the required license. The publication cannot be <span>X</span>.",
+        
+        SHARING_DISABLED: "Sharing access to publications is not currently enabled.",
+        SHARING_UNAUTHORIZED: "This content has license restrictions and cannot be shared via Shared Access.",
+        SHARING_UNAVAILABLE: "This content has license restrictions and cannot be shared via Shared Access.",
+        SHARING_TEMPORARY_ERROR: "<span>X</span> failed. Please try again."
+    };
+
+    LIT.Reader.config = {
+        /* http://requirejs.org/docs/api.html#config-waitSeconds */
+        waitSeconds: 0,
+        config: {
+            'readerConfig': {
+                'mathJaxUrl': '/cloud-reader/dist/MathJax.min.c020646cc8490f4bd5d4.js',
+                'annotationCSSUrl': HTTPServerRootFolder + '/css/annotations.css',
+                'iframeContentCSSUrl': "/cloud-reader/dist/iframe-content.e18334c13392510dee9f.css" || '/cloud-reader/dist/iframe-content.css',
+                'jsLibRoot': HTTPServerRootFolder + '/scripts/zip/',
+                'useSimpleLoader': false,
+                'epubLibraryPath': undefined,
+                'imagePathPrefix': '/cloud-reader/src/',
+                'canHandleUrl': false,
+                'canHandleDirectory': false,
+                'pdfjsWorkerUrl': "/cloud-reader/dist/worker_loader.592e48f7d1b361cca2aa.js",
+                'soundwave': "/cloud-reader/dist/images/soundwave.edc4862724cd89dcdf214bcb1e4c8416.svg",
+                'soundwave_white': "/cloud-reader/dist/images/soundwave_white.6a5609529967424c478295a103957ca7.svg",
+                'getFTR_full_text_version':"/cloud-reader/dist/images/getFTR-full-text-version.b82028595a0bbe8f561e3607ab7d440f.svg",
+                'getFTR_alternative_version':"/cloud-reader/dist/images/getFTR-alternative-version.a2b5c76c16cca33ce1b2512b00cefe16.svg",
+                'jwplayer': "/cloud-reader/dist/jwplayer.09f14cc6a00b2bdcbca6.js",
+                'icons': {
+                    ereader_icon_font_ttf: "/cloud-reader/dist/fonts/ereader-icon-font.194f6641c02ff2d7bcbdfaa1fe1bbfa5.ttf",
+                    ereader_icon_font_woff: "/cloud-reader/dist/fonts/ereader-icon-font.1aec70bba47436a4f7d805c17eb4568e.woff",
+                    ereader_icon_font_svg: "/cloud-reader/dist/images/ereader-icon-font.6002d33f5ab727ea2e5dfee9524d6bba.svg",
+                    MaterialIcons_Regular_eot: "/cloud-reader/dist/fonts/MaterialIcons-Regular.016c14adad95a0e21a2ae4fbc36955c6.eot",
+                    MaterialIcons_Regular_woff2: "/cloud-reader/dist/fonts/MaterialIcons-Regular.8a9a261c8b8dfe90db11f1817a9d22e1.woff2",
+                    MaterialIcons_Regular_woff: "/cloud-reader/dist/fonts/MaterialIcons-Regular.c38ebd3cd38c98fbd16bf31d1d24ce64.woff",
+                    MaterialIcons_Regular_ttf: "/cloud-reader/dist/fonts/MaterialIcons-Regular.55242ea5c378da626cab5b4aaf9c2255.ttf",
+                },
+                'epubReadingSystemUrl': undefined,
+                "customConfig": readerConfig
+            }
+        }
+    };
+</script>
+
+
+            
+            
+            
+                <script type="text/javascript" src="/cloud-reader/dist/templates.bde9df92942731949bcc.js"></script>
+                
+                <script type="text/javascript" src="/cloud-reader/dist/vendor.566bb5e5a62eaab9963b.js"></script>
+                <script type="text/javascript" src="/cloud-reader/dist/shared.de8f8b03ace4c3bafcb0.js"></script>
+                <script type="text/javascript" src="/cloud-reader/dist/i18n.46e7ddb44e97c08596c6.js"></script>
+            
+
+        
+        
+        
+            
+                
+                    <script type="module">
+                        if ('serviceWorker' in navigator && !window.READER_OFFLINE) {
+                            window.addEventListener("load", function (evt) {
+                                
+                                var CACHE_BUSTER_MARKER = 6;
+
+                                var assetsCacheName = 'readerAssetsCache-1048106-' + CACHE_BUSTER_MARKER;
+                                var readerContentUrl = window.location.pathname;
+                                import ('/templates/jsp/cloudReader/js/readerServiceWorkerHelper.js').then(function (swHelper) {
+                                    swHelper.registerServiceWorkers(true, readerContentUrl, readerContentPage, assetsCacheName, readerConfig.format, readerConfig.bannerConfig?.bannerImagePath);
+                                });
+                            });
+                            
+                            var readerContentPage = "<!DOCTYPE html>"+$('html')[0].outerHTML;
+                        }
+                    </script>
+                
+                
+            
+        
+    <script>(function(){var js = "window['__CF$cv$params']={r:'80ceb7ef793632af',t:'MTY5NTc2NDk4NC41NDUwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" data-cf-beacon='{"rayId":"80ceb7ef793632af","token":"f3dd54df2ac243bab2129483f57546d1","version":"2023.8.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
